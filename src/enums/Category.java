@@ -1,2 +1,7 @@
-package enums;public class Category {
+package enums;
+
+public enum Category {
+    LAPTOP,
+    PHONE;
+
 }
